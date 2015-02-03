@@ -1,0 +1,834 @@
+{
+  "results": [
+    {
+      "rsvp_limit": 45,
+      "status": "upcoming",
+      "visibility": "public",
+      "maybe_rsvp_count": 0,
+      "venue": {
+        "id": 23583739,
+        "lon": -122.39978,
+        "repinned": false,
+        "name": "Minted",
+        "state": "CA",
+        "address_1": "747 Front Street #200",
+        "lat": 37.798138,
+        "city": "San Francisco",
+        "country": "us"
+      },
+      "id": "219881802",
+      "utc_offset": -28800000,
+      "duration": 9000000,
+      "time": 1422930600000,
+      "waitlist_count": 0,
+      "updated": 1422909733000,
+      "yes_rsvp_count": 42,
+      "created": 1421440101000,
+      "event_url": "http://www.meetup.com/Women-Who-Code-SF/events/219881802/",
+      "description": "<p>Welcome to Women Who Code Mobile - San Francisco! At this week's technical workshop, we will eat, drink, mingle, listen to a lightning talk by an engineer from Minted and then we will code.</p> <p>If you have interest in Mobile development, need help with a current project, or seek a supportive workspace, please attend.</p> <p>Beginners will pair program with other attendees and build an app! You'll move at your own pace and will be able to get your hands dirty from initial design to full implementation. Mentors will be floating around to answer any and all questions.</p> <p>----</p> <p><b>Schedule:</b></p> <p>6:30 - 7:00 PM - Mingle, Network and Dinner</p> <p>7:00 - 7:15 PM - Welcome to WWCode &amp; Lightening talk by host </p> <p>7:15 - 9:00 PM - Choose Your Coding Adventure</p> <p>----</p> <p><b>Objective-C for iOS Development</b></p> <p>What to do beforehand:</p> <p>You will need a Mac computer running OSX 10.7 or later, with Xcode 4.5 or later. Please install X-Code from the Mac App Store before you arrive.</p> <p>Learning Resources:</p> <p>iOS - <a href="http://www.raywenderlich.com/tutorials">www.raywenderlich.com/tutorials</a></p> <p>Beginner Friendly “Your First App”  <a href="http://www.raywenderlich.com/25561/learn-to-code-ios-apps-3-your-first-app"><a href="http://www.raywenderlich.com/25561/learn-to-code-ios-apps-3-your-first-app" class="linkified">http://www.raywenderlich.com/25561/learn-to-code-ios-apps-3-your-first-app</a></a></p> <p>----</p> <p><b>Java for Android Development</b></p> <p>What to do beforehand:</p> <p>Android apps can be developed on Mac or PC. Please install Android Studio or Eclipse and the Android SDK before you arrive. If you do not have the proper equipment, don't worry, we will pair everyone up to work together.</p> <p>Learning Resources:</p> <p>Android - <a href="http://www.vogella.com">www.vogella.com</a><br/><a href="http://www.github.com/thecodepath/android_guides/wiki">www.github.com/thecodepath/android_guides/wiki</a></p> <p>----</p> <p><b>Additional Note</b></p> <p>This event is intended to be exclusively open for people who identify as women - we are transgender friendly.</p>",
+      "how_to_find_us": "Yes, there is bike parking.",
+      "name": "Mobile Study Group: iOS & Android (Objective-C & Java)",
+      "headcount": 0,
+      "group": {
+        "id": 2252591,
+        "created": 1311875189000,
+        "group_lat": 37.77000045776367,
+        "name": "Women Who Code SF",
+        "group_lon": -122.41000366210938,
+        "join_mode": "open",
+        "urlname": "Women-Who-Code-SF",
+        "who": "Coders"
+      }
+    },
+    {
+      "rsvp_limit": 25,
+      "status": "upcoming",
+      "visibility": "public",
+      "maybe_rsvp_count": 0,
+      "venue": {
+        "id": 23611852,
+        "lon": -122.400833,
+        "repinned": false,
+        "name": "Boatbond",
+        "state": "CA",
+        "address_1": "435 Harriet Street",
+        "lat": 37.774044,
+        "city": "San Francisco",
+        "country": "us"
+      },
+      "id": "hnpjdlytdbdb",
+      "utc_offset": -28800000,
+      "duration": 7200000,
+      "time": 1422932400000,
+      "waitlist_count": 0,
+      "updated": 1422924998000,
+      "yes_rsvp_count": 6,
+      "created": 1419911913000,
+      "event_url": "http://www.meetup.com/Girl-Develop-It-San-Francisco/events/219706378/",
+      "description": "<p>Join us every Monday for this self-paced HTML/CSS/JavaScript/AngularJS/d3.js/Three.js study group where we come together to eat snacks, study and help each other out. TAs will be there to help you get unstuck when you can't figure out how to get those pesky error messages to go away.</p> <p><br/>If you don't already have something you're working on, here are places to practice:</p> <p>• <a href="http://pairuptocode.com">PairUpToCode Exercises</a></p> <p>• <a href="http://codecademy.com">Codecademy</a></p> <p>• <a href="http://www.khanacademy.org/programming">Khan Academy (JS/HTML)</a></p> <p>• <a href="http://codeschool.com">CodeSchool</a></p> <p><a href="http://codeschool.com">•</a> <a href="http://eloquentjavascript.net">Eloquent JavaScript</a></p> <p>• <a href="https://github.com/rmurphey/js-assessment">JS Assessment</a></p> <p>Please contact bianca@hackreactor.com if you are interested in TAing this study group. Looking forward to growing as engineers together!</p> <p>This study group is cross-referenced with Women Who Code SF.</p> <p><i>Thank you to <b><a href="http://www.hackreactor.com">HackReactor</a></b> for hosting the study group. Hack Reactor is an intensive JavaScript School where amateur developers come to become mid-level, full-stack software engineers in ~12 weeks.</i></p>",
+      "how_to_find_us": "Check in on the 8th floor",
+      "name": "GDI Study Group",
+      "headcount": 0,
+      "group": {
+        "id": 3286622,
+        "created": 1329147725000,
+        "group_lat": 37.77000045776367,
+        "name": "Girl Develop It San Francisco",
+        "group_lon": -122.4000015258789,
+        "join_mode": "open",
+        "urlname": "Girl-Develop-It-San-Francisco",
+        "who": "Nerdettes"
+      }
+    },
+    {
+      "rsvp_limit": 40,
+      "status": "upcoming",
+      "visibility": "public",
+      "maybe_rsvp_count": 0,
+      "venue": {
+        "id": 23611852,
+        "lon": -122.400833,
+        "repinned": false,
+        "name": "Boatbond",
+        "state": "CA",
+        "address_1": "435 Harriet Street",
+        "lat": 37.774044,
+        "city": "San Francisco",
+        "country": "us"
+      },
+      "id": "qhmnzjytdbdb",
+      "utc_offset": -28800000,
+      "duration": 7200000,
+      "time": 1422932400000,
+      "waitlist_count": 0,
+      "updated": 1422924989000,
+      "yes_rsvp_count": 26,
+      "created": 1404758272000,
+      "event_url": "http://www.meetup.com/Women-Who-Code-SF/events/219627604/",
+      "description": "<p>Join us every Monday for this self-paced JavaScript study group where we come together to eat snacks, study and help each other out. It is supported by a handful of TAs to help you get unstuck when you can't figure out how to get those error messages to go away.</p> <p><b>Resources to get started:</b></p> <p>• <a href="https://www.khanacademy.org/">Khan Academy</a></p> <p>• <a href="http://www.codecademy.com">Codecademy</a></p> <p>• <a href="http://eloquentjavascript.net/">Eloquent JavaScript</a></p> <p>• <a href="http://www.codeschool.com">CodeSchool</a></p> <p><a href="http://www.meetup.com/Girl-Develop-It-San-Francisco/">• GirlDevelopIt Workshops</a></p> <p><br/>Please contact bianca@hackreactor.com if you are interested in TAing this study group. </p> <p>Looking forward to growing as engineers together. </p> <p><b>Hack Reactor is an intensive JavaScript School where amateur developers come to become mid-level, full-stack software engineers in ~12 weeks. For more information checkout <a href="http://www.hackreactor.com">Hack Reactor's Website</a>.</b></p>",
+      "how_to_find_us": "Come up to the 8th floor. Please leave bikes locked up in the basement.",
+      "name": "JavaScript Study Group (Hack Reactor)",
+      "headcount": 0,
+      "group": {
+        "id": 2252591,
+        "created": 1311875189000,
+        "group_lat": 37.77000045776367,
+        "name": "Women Who Code SF",
+        "group_lon": -122.41000366210938,
+        "join_mode": "open",
+        "urlname": "Women-Who-Code-SF",
+        "who": "Coders"
+      }
+    },
+    {
+      "rsvp_limit": 75,
+      "status": "upcoming",
+      "visibility": "public",
+      "maybe_rsvp_count": 0,
+      "venue": {
+        "id": 23569614,
+        "lon": -122.397583,
+        "repinned": false,
+        "name": "Geekdom ",
+        "state": "CA",
+        "address_1": "620 Folsom Street, #100",
+        "lat": 37.785271,
+        "city": "San Francisco",
+        "country": "us"
+      },
+      "id": "qpgmblytdbfb",
+      "utc_offset": -28800000,
+      "time": 1423017000000,
+      "waitlist_count": 0,
+      "updated": 1422304571000,
+      "yes_rsvp_count": 59,
+      "created": 1415060367000,
+      "event_url": "http://www.meetup.com/Women-Who-Code-SF/events/219079408/",
+      "description": "<p>This is a study group and you are welcome to work on anything you would like in our friendly and helpful environment. Organizers and core team members of the Ruby Study group will be present to help you with any Ruby related questions. We welcome many levels of attendees: brand new beginners, coders new to Ruby and Rails, experienced Rubyists, and anyone in between. Work on tutorials, personal projects, or just network!</p> <p>
+
+      This event is intended to be exclusively open to people who identify as female, and is explicitly queer and trans friendly. <a href="https://github.com/WomenWhoCode/guidelines-resources/blob/master/code_of_conduct.md">Code of Conduct</a> </p> <p>
+
+
+
+
+
+
+      6:30 - 6:45 Arrive</p> <p>
+
+      6:45 - 7:10 Introductions</p> <p>
+
+      7:10 - 7:15 Lightning talk by Kane Baccigalupi</p> <p>
+
+      7:30 Code!</p> <p>
+
+      </p> <p>
+
+      <b>Beginners can start the install process:<br/></b> <a href="http://installfest.railsbridge.org/installfest/"><a href="http://installfest.railsbridge.org/installfest/" class="linkified">http://installfest.railsbridge.org/installfest/</a></a></p> <p>
+
+      <b>Beginner tutorials:<br/></b> <a href="http://tryruby.org/"><a href="http://tryruby.org/" class="linkified">http://tryruby.org/</a></a> and <a href="http://www.codecademy.com/tracks/ruby"><a href="http://www.codecademy.com/tracks/ruby" class="linkified">http://www.codecademy.com/tracks/ruby</a></a></p> <p>
+
+      <b>Intermediate:<br/></b> Can work through tutorials like <a href="http://it-ebooks.info/book/36/">Learn to Program</a>, &lt;a&gt;<a href="http://rubykoans.com/ and http://ruby.railstutorial.org/&lt;/a&gt" class="linkified">http://rubykoans.com/ and http://ruby.railstutorial.org/&lt;/a&gt</a>;</p> <p>
+
+      <b>Advanced:<br/></b> You probably have ideas for what to work on, but if you want practice on Rails, we have a couple test-driven projects that are open for forking: <a href="https://github.com/WomenWhoCode/TicTacToeSkeleton">Tic-Tac-Toe</a> and <a href="https://github.com/WomenWhoCode/RubyTuesdays-ConnectFour">Connect Four</a>.</p> <p>
+
+      <b>Bike Parking:</b> <br/>There 4 bike spots inside the lobby and any overflow should be either brought inside locked to itself, or locked outside.</p>",
+      "name": "Ruby Tuesdays - Geekdom",
+      "headcount": 0,
+      "group": {
+        "id": 2252591,
+        "created": 1311875189000,
+        "group_lat": 37.77000045776367,
+        "name": "Women Who Code SF",
+        "group_lon": -122.41000366210938,
+        "join_mode": "open",
+        "urlname": "Women-Who-Code-SF",
+        "who": "Coders"
+      }
+    },
+    {
+      "rsvp_limit": 50,
+      "status": "upcoming",
+      "visibility": "public",
+      "maybe_rsvp_count": 0,
+      "venue": {
+        "id": 16855052,
+        "zip": "94107",
+        "lon": -122.391251,
+        "repinned": false,
+        "name": "GitHub",
+        "state": "CA",
+        "address_1": "88 Colin P Kelly Jr St",
+        "lat": 37.782269,
+        "city": "San Francisco",
+        "country": "us"
+      },
+      "id": "gdzsclytdbfb",
+      "utc_offset": -28800000,
+      "time": 1423017000000,
+      "waitlist_count": 0,
+      "updated": 1416775786000,
+      "yes_rsvp_count": 32,
+      "created": 1416775625000,
+      "event_url": "http://www.meetup.com/Women-Who-Code-SF/events/218859143/",
+      "description": "<p>Do I need to prep anything?</p> <p>Please download the free version of Unity3d here : <a href="https://unity3d.com/unity/download" class="linkified">https://unity3d.com/unity/download</a></p> <p>Schedule</p> <p>6:30 - 7:00 Mingle/Dinner</p> <p>7:00 - 9:00 Game Making</p> <p>What will we cover?</p> <p>This will be Part 4 of a 5-part series.  We will be making our own version of Thomas Was Alone, a successful Indie game developed in Unity and release on Steam : <a href="http://store.steampowered.com/app/220780" class="linkified">http://store.steampowered.com/app/220780</a></p> <p>You are also free to work on your own project.</p> <p>Link to our WWC : Unity3d discussion group : <a href="https://www.facebook.com/groups/738104542908328/" class="linkified">https://www.facebook.com/groups/738104542908328/</a></p> <p>*This event is intended for those who identify as a woman. Women Who Code is trans-friendly.</p>",
+      "how_to_find_us": "corner of Brannan St. and Colin P Kelly Jr St.",
+      "name": "Game Development",
+      "headcount": 0,
+      "group": {
+        "id": 2252591,
+        "created": 1311875189000,
+        "group_lat": 37.77000045776367,
+        "name": "Women Who Code SF",
+        "group_lon": -122.41000366210938,
+        "join_mode": "open",
+        "urlname": "Women-Who-Code-SF",
+        "who": "Coders"
+      }
+    },
+    {
+      "rsvp_limit": 200,
+      "status": "upcoming",
+      "visibility": "public",
+      "maybe_rsvp_count": 0,
+      "venue": {
+        "id": 129410,
+        "zip": "94303",
+        "lon": -122.14233,
+        "repinned": false,
+        "name": "DLA Piper",
+        "state": "CA",
+        "address_1": "2000 University Ave",
+        "lat": 37.45911,
+        "city": "Palo Alto",
+        "country": "us"
+      },
+      "id": "219635740",
+      "utc_offset": -28800000,
+      "time": 1423018800000,
+      "waitlist_count": 0,
+      "updated": 1421376145000,
+      "yes_rsvp_count": 116,
+      "created": 1420525601000,
+      "event_url": "http://www.meetup.com/svnewtech/events/219635740/",
+      "description": "<p><b><a href="http://www.eventbrite.com/e/silicon-valley-newtech-february-2015-tickets-15152285895">PLEASE RSVP ON EVENTBRITE</a></b></p> <p>Please <a href="http://www.eventbrite.com/e/silicon-valley-newtech-february-2015-tickets-15152285895">register for a ticket on Eventbrite</a> in order to attend. This makes member management and the check-in process much easier for us.</p> <p>RSVPing on Meetup alone will not get you in. Please take a quick link-jog over to Eventbrite, <a href="http://www.eventbrite.com/e/silicon-valley-newtech-february-2015-tickets-15152285895">grab a ticket</a>, and join us for a great event!</p> <p><b>Price:</b> <a href="http://www.eventbrite.com/e/silicon-valley-newtech-february-2015-tickets-15152285895">only $5</a></p> <p><br/>----------------------------------------------------------------</p> <p>Learn about hot new web technologies and mingle with 200+ fellow entrepreneurs, investors, bloggers, and tech enthusiasts. This meetup fills up quickly, so be sure to RSVP early.</p> <p>The first hour of the meetup will be demos (actual demos, no power point slides). The second hour is for networking and talking to the presenters. Pizza, beer, and wine will be provided.</p> <p><br/>Founder of a hot startup? <a href="http://www.svnewtech.com/apply-to-demo/">Apply to demo at SVNewTech.com.</a></p> <p>----------------------------------------------------------------</p> <p><br/><b>Quick Links  </b></p> <p><br/>* <a href="http://www.youtube.com/svnewtech">Watch videos of our previous meetups.</a> <br/>* Become a fan of our <a href="http://www.facebook.com/pages/SVNewTech/147997418548766">Facebook Page</a> for the latest updates. <br/>* Follow <a href="http://twitter.com/svnewtech">@SVNewTech</a> on Twitter.</p> <p> ----------------------------------------------------------------</p> <p><b>Supporters</b></p> <p>A special thank you to:</p> <p>• Location &amp; pizza provided by: <a href="http://www.dlapiper.com/">DLA Piper</a> </p> <p>• Wine and beer provided by: <a href="http://www.bhatiaco.com/">Bhatia &amp; Co. Certified Public Accountants</a></p> <p><br/>Future sponsor - maybe you? If you're interested, please hit the "Contact" link over there to the right on this screen or email us at organizers@svnewtech.com</p>",
+      "how_to_find_us": "Next to the Four Seasons Hotel in East Palo Alto off of the University Ave exit from Hwy 101",
+      "name": "Silicon Valley NewTech",
+      "headcount": 0,
+      "group": {
+        "id": 221224,
+        "created": 1138071172000,
+        "group_lat": 37.439998626708984,
+        "name": "Silicon Valley NewTech (SVNewTech)",
+        "group_lon": -122.1500015258789,
+        "join_mode": "open",
+        "urlname": "svnewtech",
+        "who": "SVNewTech'rs"
+      }
+    },
+    {
+      "status": "upcoming",
+      "visibility": "public",
+      "maybe_rsvp_count": 0,
+      "venue": {
+        "id": 16549842,
+        "zip": "94107",
+        "lon": -122.39758,
+        "repinned": false,
+        "name": "Geekdom San Francisco",
+        "state": "CA",
+        "address_1": "620 Folsom",
+        "address_2": "Ground Floor",
+        "lat": 37.78527,
+        "city": "San Francisco",
+        "country": "us"
+      },
+      "id": "219719888",
+      "utc_offset": -28800000,
+      "duration": 7200000,
+      "time": 1423018800000,
+      "waitlist_count": 0,
+      "updated": 1420826211000,
+      "yes_rsvp_count": 76,
+      "created": 1420826211000,
+      "event_url": "http://www.meetup.com/PyLadiesSF/events/219719888/",
+      "description": "<p>You asked for it! Come practice Python with the PyLadies San Francisco Study Group! Whether you’re new to coding, working on a project, or just want to meet people with similar interests, all are welcome. Interest in mentoring? Awesome! no need to RSVP but please reach out to one of the event hosts, Erin or Lucy, and let them know!<br/>This is a study group for anyone who identifies as a woman. We’ll be working through exercises, but feel free to bring your own project to work on. There will be TAs and mentors** to help answer questions! Hope to see you there. This study group will skip days right before major holidays.</p> <p>Required: your own laptop with Python already installed, and a smile. :D</p> <p>A *huge* thank you to Geekdom for hosting us!</p> <p>**TAs and mentors can be either female or male</p>",
+      "name": "San Francisco Beginner's Study Group",
+      "headcount": 0,
+      "group": {
+        "id": 3604052,
+        "created": 1333518348000,
+        "group_lat": 37.77000045776367,
+        "name": "PyLadies of San Francisco",
+        "group_lon": -122.4000015258789,
+        "join_mode": "open",
+        "urlname": "PyLadiesSF",
+        "who": "Pythonistas"
+      }
+    },
+    {
+      "rsvp_limit": 35,
+      "status": "upcoming",
+      "visibility": "public",
+      "maybe_rsvp_count": 0,
+      "venue": {
+        "id": 11951132,
+        "lon": -122.419418,
+        "repinned": false,
+        "name": "Riviera Partners",
+        "state": "CA",
+        "address_1": "185 Berry Street #2400, Lobby 3",
+        "lat": 37.774929,
+        "city": "San Francisco",
+        "country": "us"
+      },
+      "id": "kgxldlytdbgb",
+      "utc_offset": -28800000,
+      "duration": 7200000,
+      "time": 1423080000000,
+      "waitlist_count": 0,
+      "updated": 1422904809000,
+      "yes_rsvp_count": 34,
+      "created": 1420343202000,
+      "event_url": "http://www.meetup.com/Women-Who-Code-SF/events/219623124/",
+      "description": "<p>Join Wendy Saccuzzo, Director of Career Development with Women Who Code, for a workshop on job search and social media for tech professionals.</p> <p>
+
+      This event will cover:</p> <p>
+
+      ·  Gaining awareness of your career goals and how to tell your career story, including your elevator pitch.</p> <p>
+
+      ·  Exploring what a successful job search looks like, including resources.</p> <p>
+
+      ·  Learning how to effectively work with a recruiter.</p> <p>
+
+      ·  Increasing awareness of your skills and values, and how to communicate them in your cover letter, resume, and interviews.</p> <p>
+
+      •  Why you should be using LinkedIn, Twitter and Glassdoor for networking and job search, and how to polish up your profiles to successfully build your personal brand</p> <p>
+
+      •  How to increase your connections and find resources for informational interviews</p> <p>
+
+      • Twitter for networking, job search, and interview preparation</p> <p>
+
+      Email wendy@rivierapartners.com for more information.</p> <p>
+
+      This event is open to all genders.</p> <p>
+
+      <i><a href="http://rivierapartners.com/">Riviera</a> Partners is the Bay Area’s leading engineering &amp; product development recruiting firm that uses data-driven findings to match engineers with the best startup opportunities. Wendy Saccuzzo is a Career Development Specialist and Community Manager, and helps build engineering teams.  Wendy has more than 15 years of experience in tech and recruiting, along with a graduate degree in Counseling focusing on Career Development.  At Riviera, Wendy works with rapidly growing startups within the Consumer Internet space, including E-commerce, Digital Media, Online Advertising, and SaaS.</i></p> <p>
+
+      </p>",
+      "how_to_find_us": "Located at China Basin; Parking at Lot A or D near the ballpark for $4/two hours.",
+      "name": "Career Development:  Job Search, Social Media & Building Your Personal Brand",
+      "headcount": 0,
+      "group": {
+        "id": 2252591,
+        "created": 1311875189000,
+        "group_lat": 37.77000045776367,
+        "name": "Women Who Code SF",
+        "group_lon": -122.41000366210938,
+        "join_mode": "open",
+        "urlname": "Women-Who-Code-SF",
+        "who": "Coders"
+      }
+    },
+    {
+      "rsvp_limit": 30,
+      "status": "upcoming",
+      "visibility": "public",
+      "maybe_rsvp_count": 0,
+      "venue": {
+        "id": 11951132,
+        "lon": -122.419418,
+        "repinned": false,
+        "name": "Riviera Partners",
+        "state": "CA",
+        "address_1": "185 Berry Street #2400, Lobby 3",
+        "lat": 37.774929,
+        "city": "San Francisco",
+        "country": "us"
+      },
+      "id": "pkxldlytdbgb",
+      "utc_offset": -28800000,
+      "duration": 3600000,
+      "time": 1423094400000,
+      "waitlist_count": 9,
+      "updated": 1422639356000,
+      "yes_rsvp_count": 30,
+      "created": 1420344416000,
+      "event_url": "http://www.meetup.com/Women-Who-Code-SF/events/219586178/",
+      "description": "<p>Let's talk interview preparation- how to do your homework and be prepared to knock their socks off!</p> <p>This is is a forum to network, polish your job search techniques, and find out the latest employment trends in the SF Bay Area tech community.</p> <p>Email wendy@rivierapartners.com for more information.</p> <p>This event is open to all genders.</p> <p><i><a href="http://rivierapartners.com/">Riviera</a> Partners is the Bay Area’s leading engineering &amp; product development recruiting firm that uses data-driven findings to match engineers with the best startup opportunities. Wendy Saccuzzo is a Career Development Specialist and Community Manager, and helps build engineering teams.  Wendy has more than 15 years of experience in tech and recruiting, along with a graduate degree in Counseling focusing on Career Development.  At Riviera, Wendy works with rapidly growing startups within the Consumer Internet space, including E-commerce, Digital Media, Online Advertising, and SaaS.</i></p> <p>
+
+
+
+      </p> <p> </p>",
+      "how_to_find_us": "Located at China Basin; Parking at Lot A or D near the ballpark for $4/two hours.",
+      "name": "Career Development:  Interview Preparation",
+      "headcount": 0,
+      "group": {
+        "id": 2252591,
+        "created": 1311875189000,
+        "group_lat": 37.77000045776367,
+        "name": "Women Who Code SF",
+        "group_lon": -122.41000366210938,
+        "join_mode": "open",
+        "urlname": "Women-Who-Code-SF",
+        "who": "Coders"
+      }
+    },
+    {
+      "status": "upcoming",
+      "visibility": "public",
+      "maybe_rsvp_count": 0,
+      "venue": {
+        "id": 13316422,
+        "zip": "94025",
+        "lon": -122.185204,
+        "repinned": false,
+        "name": "Procopio",
+        "state": "CA",
+        "address_1": "1020 Marsh Road, 2nd floor",
+        "lat": 37.479267,
+        "city": "Menlo Park",
+        "country": "us"
+      },
+      "id": "220149067",
+      "utc_offset": -28800000,
+      "duration": 10800000,
+      "time": 1423101600000,
+      "waitlist_count": 0,
+      "updated": 1422485253000,
+      "yes_rsvp_count": 4,
+      "created": 1422484655000,
+      "event_url": "http://www.meetup.com/WomenStartupLab/events/220149067/",
+      "description": "<p><b>SEATING IS LIMITED.</b> <a href="https://www.eventbrite.com/e/startup-fundamentals-developing-an-ip-portfolio-on-a-startup-prefunded-budget-tickets-15465147673"><b>CLICK HERE TO PURCHASE TICKETS.</b></a></p> <p><b>USE PROMO CODE: WSLAB for 20% off!</b></p> <p>Investors, whether they are angels or venture capitalists, always look for these primary elements when considering an investment:</p> <p>
+
+
+      • the team</p> <p>
+
+      • the TAM (total addressable market); and</p> <p>
+
+      • <b>does the company have a sustainable competitive advantage?</b> </p> <p>Developing a sustainable competitive advantage, by creating an IP portfolio from the very early stages of a startup, is a critical element. Contrary to popular belief, doing so can be done <b>cost effectively</b>, and on a <b>shoestring budget</b> prior to funding!</p> <p>
+
+      <b><a href="http://www.procopio.com/attorneys/noel-c-gillespie">Noel Gillespie, a partner at Procopio</a>,</b> will discuss:</p> <p>
+
+      • the different forms of Intellectual Property (patents, copyrights trade secrets etc.);</p> <p>
+
+      • which type of IP is best suited to startups with software and other products; and   </p> <p>• how they should work together in an IP portfolio/plan. </p> <p>• how you should present the IP portfolio/plan in your pitch deck, with an emphasis on how to convey that your IP portfolio/plan will create value by creating a sustainable competitive advantage; and then</p> <p>• how to actually implement the plan in a cost effective manner, with particular emphasis on how you can cost effectively build a portfolio early on when funds are scarce, but not compromise the ultimate protection/advantage that the portfolio is intended to provide.</p> <p>
+
+      Because our Meetup is primarily all about education and access, we will leave at least 45 minutes for an interactive discussion with participants, so bring all your questions!</p> <p>
+
+      <b>AGENDA:</b></p> <p>
+
+      6:00 P.M -6:30 P.M. networking, light dinner and refreshments </p> <p>6:30 P.M. to 8:30 Discussion and Q&amp;A. </p> <p>PRICE: Early Bird Special: $15 (before January 21)</p> <p>
+
+      <b>General Admission:</b> </p> <p>$20 (fromJanuary 22) Late Admission: </p> <p>$25 (at the door) SEATING IS LIMITED. </p> <p><b><a href="https://www.eventbrite.com/e/startup-fundamentals-developing-an-ip-portfolio-on-a-startup-prefunded-budget-tickets-15465147673">CLICK HERE TO PURCHASE TICKETS</a>. and use code [WSLAB] for 20% off.</b></p> <p>Our event is open to: startup founders, startup executives, entrepreneurs, innovators and developers.</p> <p>
+
+
+      <img src="http://photos2.meetupstatic.com/photos/event/a/0/4/4/600_433241028.jpeg" /></p> <p>
+
+
+      About Noel:</p> <p>
+
+      Noel regularly assists clients with strategic patent portfolio development and implementation so as to protect their technology and help them achieve their business objectives. This process includes developing claim strategies that create market barriers and protect or create revenue streams, as well as preparing and prosecuting US and foreign Patent Applications. Noel has extensive experience in dealing with telecommunications companies, especially wireless telecommunications companies, wireless health, health IT, medical device companies, clean tech and software/Internet companies. For example, Noel has helped clients build portfolios and protect or build market positions in the areas of wireless sensors for health applications, smart grids, semiconductor memories, lab and chip technology and energy efficient data storage. </p> <p>In addition to his extensive legal experience, Noel has also served as Senior Design Engineer and Product Team leader for Sony Digital Telecommunications of America, where he was responsible for the comprehensive baseband design for several CDMA handsets that used the latest Qualcomm Mobile Station Modem (MSM) chipsets. He received extensive training in CDMA and wireless communication technology and his design responsibilities fell under the areas of microprocessor circuits, audio circuits, power management circuits and user interfaces such as keypads and LCDs. Prior to this, he was a Design Engineer and Product Team Leader at Cubic Defense Systems in San Diego, where he was responsible for the design and testing of several portable electronic systems. Noel successfully managed a team of engineers in the completion of Cubic’s Manworn Laser Detection System, which was part of the MILES 2000 product line, an optical communication system. Noel’s design responsibilities on the product included the areas of optical communications, ASICs, microprocessor circuits, user interfaces and power management. </p> <p>
+
+
+
+      <br/><b>EVENT SPONSORS:</b></p> <p>
+
+      Procopio - Ranked among the 2014 Best Law Firms by US News &amp; World Report</p> <p><br/><img src="http://photos3.meetupstatic.com/photos/event/8/2/d/e/600_406113502.jpeg" /></p> <p>
+
+
+      Women's Startup Lab - Great women build amazing companies </p> <p><img src="http://photos2.meetupstatic.com/photos/event/8/4/a/a/600_406113962.jpeg" /></p> <p>
+
+
+      Lifograph - Who's Who in Silicon Valley &amp; tech: VCs, angels, entrepreneurs, startups</p> <p><img src="http://photos4.meetupstatic.com/photos/event/8/5/0/4/600_406114052.jpeg" /></p> <p>
+
+
+      Founders Floor - Co-working accelerator for startups and entrepreneurs. Office space, partnerships and funding opportunities</p> <p><img src="http://photos3.meetupstatic.com/photos/event/d/7/2/2/600_433135074.jpeg" /></p>",
+      "name": "Startup Fundamentals: Developing an IP Portfolio On A Startup (prefunded) Budget",
+      "headcount": 0,
+      "group": {
+        "id": 6600732,
+        "created": 1357878892000,
+        "group_lat": 37.439998626708984,
+        "name": "Women's Startup Lab",
+        "group_lon": -122.19000244140625,
+        "join_mode": "open",
+        "urlname": "WomenStartupLab",
+        "who": "Startup Women"
+      }
+    },
+    {
+      "status": "upcoming",
+      "visibility": "public",
+      "maybe_rsvp_count": 0,
+      "venue": {
+        "id": 23474285,
+        "lon": -122.402122,
+        "repinned": false,
+        "name": "Product School",
+        "state": "CA",
+        "address_1": "415 Jackson Street (Suite B) ",
+        "lat": 37.796551,
+        "city": "San Francisco",
+        "country": "us"
+      },
+      "id": "220034963",
+      "utc_offset": -28800000,
+      "duration": 5400000,
+      "time": 1423103400000,
+      "waitlist_count": 0,
+      "updated": 1422051701000,
+      "yes_rsvp_count": 72,
+      "created": 1422043000000,
+      "event_url": "http://www.meetup.com/ProductManagementFastTrack/events/220034963/",
+      "description": "<p><a href="https://www.eventbrite.com/e/cracking-the-pm-interview-tickets-15463365342">RSVP HERE</a>: <a href="https://www.eventbrite.com/e/cracking-the-pm-interview-tickets-15463365342"><a href="https://www.eventbrite.com/e/cracking-the-pm-interview-tickets-15463365342" class="linkified">https://www.eventbrite.com/e/cracking-the-pm-interview-tickets-15463365342</a></a></p> <p>If you live in San Francisco, have a technical background, and want to get a job as a Product Manager - this is the perfect event for you!</p> <p>
+
+      Gayle McDowell is the author of the book "Cracking the PM Interview", the #1 interview prep book for aspiring product managers. During this talk, she will teach you how to prepare for PM interviews, what top companies like Google, Amazon, and Microsoft really look for, and how to tackle the toughest problems. This is not a fluffy be-your-best talk; it is deeply tactical and will discuss how the ambiguously-named "PM" (product manager / program manager) role varies across companies, what experience you need, how to make your existing experience translate, what a great PM resume and cover letter look like, and finally, how to master the PM interview questions (estimation questions, behavioral questions, case questions, product questions, technical questions, and the super important "pitch").</p> <p>
+
+      Timeline:</p> <p>
+
+      6:30 - 6:45: Meet &amp; Greet with wine &amp; delectables</p> <p>
+
+      6:45 - 7:15: Guest Speaker Presentation 7:15 - 7:30: Q&amp;A</p> <p><img src="http://d13pix9kaak6wt.cloudfront.net/avatar/users/g/a/y/gayle_1406930092_26.jpg" /></p> <p>
+
+      About the Speaker:</p> <p>
+
+      Gayle McDowell is the Founder and CEO of CareerCup and the author of Cracking the Coding Interview, Cracking the Coding Interview and Cracking the Tech Career: <a href="http://www.linkedin.com/in/gaylemcd"><a href="http://www.linkedin.com/in/gaylemcd" class="linkified">http://www.linkedin.com/in/gaylemcd</a></a> </p> <p>Gayle has worked as a Software Engineer for Google, Microsoft and Apple and has extensive interviewing experience on both sides of the table. She has interviewed and received offers from Google, Microsoft, Apple, Amazon, IBM, Goldman Sachs and a variety of other firms, and she has interviewed over 120 candidates at Google and served on its hiring committee. Gayle holds a BSE and MSE from UPenn in Computer Science, and an MBA from the Wharton School.</p>",
+      "name": "Cracking the PM Interview",
+      "headcount": 0,
+      "group": {
+        "id": 7723852,
+        "created": 1363889251000,
+        "group_lat": 37.77000045776367,
+        "name": "Product Management Fast Track",
+        "group_lon": -122.41000366210938,
+        "join_mode": "open",
+        "urlname": "ProductManagementFastTrack",
+        "who": "Product Lovers"
+      }
+    },
+    {
+      "rsvp_limit": 70,
+      "status": "upcoming",
+      "visibility": "public",
+      "maybe_rsvp_count": 0,
+      "venue": {
+        "id": 23589192,
+        "lon": -122.397453,
+        "repinned": false,
+        "name": "Brigade",
+        "state": "CA",
+        "address_1": "548 4th St.",
+        "lat": 37.778999,
+        "city": "San Francisco",
+        "country": "us"
+      },
+      "id": "219798217",
+      "utc_offset": -28800000,
+      "time": 1423189800000,
+      "waitlist_count": 16,
+      "updated": 1422639825000,
+      "yes_rsvp_count": 70,
+      "created": 1421123022000,
+      "event_url": "http://www.meetup.com/Women-Who-Code-SF/events/219798217/",
+      "description": "<p>This meetup will be focused on learning the basics of C and supporting ongoing C learners. Targeted for programmers who <b>already know at least one programming language</b>, are excited about learning C, and would love to better understand the inner workings of memory management.</p> <p><b>8-week series curriculum:</b></p> <p><b>Part I - Introduction to the Language</b><br/><b>2/5</b> - Installation, Compilers, and Hello World<br/><b>2/19</b> - Language Basics, Part 1<br/><b>3/5</b> - Language Basics, Part 2<br/><b>3/19</b> - C-specific Basics</p> <p><b>Part II - More Advanced Topics; Project</b> **<br/><b>4/2</b> - Pointers and Standard Libraries<br/><b>4/16</b> - Memory Allocation<br/><b>4/30</b> - Datatypes<br/><b>5/14</b> - Advanced Lab</p> <p>Please try to attend the early sessions if you're new to the language, as we will unfortunately not be repeating material. </p> <p><br/><i>Who should take this series?</i><br/>* Programmers with skill in one other programming language, like Ruby.<br/>* Programmers who need to relearn C.<br/>* Objective-C programmers who want better C skills.<br/>* Programmers who want to learn more about memory management.</p> <p>** Curriculum subject to change</p>",
+      "name": "The C Programming Language",
+      "headcount": 0,
+      "group": {
+        "id": 2252591,
+        "created": 1311875189000,
+        "group_lat": 37.77000045776367,
+        "name": "Women Who Code SF",
+        "group_lon": -122.41000366210938,
+        "join_mode": "open",
+        "urlname": "Women-Who-Code-SF",
+        "who": "Coders"
+      }
+    },
+    {
+      "rsvp_limit": 1,
+      "visibility": "public_limited",
+      "status": "upcoming",
+      "maybe_rsvp_count": 0,
+      "venue": {
+        "id": 6963732,
+        "zip": "10021",
+        "lon": -73.958839,
+        "repinned": false,
+        "name": "Black Dragon",
+        "state": "NY",
+        "address_1": "1317 3rd Avenue",
+        "lat": 40.771931,
+        "city": "New York",
+        "country": "us"
+      },
+      "utc_offset": -18000000,
+      "id": "qjpgfdytdbjb",
+      "time": 1423265400000,
+      "waitlist_count": 0,
+      "created": 1343427593000,
+      "yes_rsvp_count": 0,
+      "updated": 1380812606000,
+      "event_url": "http://www.meetup.com/Meetup-API-Testing/events/165507252/",
+      "headcount": 0,
+      "name": "now less than weekly",
+      "group": {
+        "id": 1556336,
+        "created": 1258123610000,
+        "group_lat": 40.70000076293945,
+        "name": "Meetup API Testing Sandbox",
+        "group_lon": -73.98999786376953,
+        "join_mode": "open",
+        "urlname": "Meetup-API-Testing",
+        "who": "Developers"
+      }
+    },
+    {
+      "rsvp_limit": 1,
+      "status": "upcoming",
+      "visibility": "public",
+      "maybe_rsvp_count": 0,
+      "venue": {
+        "id": 23578543,
+        "lon": 170.969421,
+        "repinned": false,
+        "name": "Prezi",
+        "state": "CA",
+        "address_1": "Details to be sent upon acceptance",
+        "lat": -45.100449,
+        "city": "San Francisco",
+        "country": "us"
+      },
+      "id": "219880197",
+      "utc_offset": -28800000,
+      "duration": 79200000,
+      "time": 1423276200000,
+      "waitlist_count": 13,
+      "updated": 1421443644000,
+      "yes_rsvp_count": 21,
+      "created": 1421434910000,
+      "event_url": "http://www.meetup.com/PyLadiesSF/events/219880197/",
+      "description": "<p>There are a limited number of spaces in this workshop (which will be at Prezi!), so please add yourself to the waitlist here on Meetup and fill out this form by January 30th: <a href="https://docs.google.com/forms/d/1PV_ep5WBarYMXmNOrD1ac8SYXHisePHPXvi_L9pcPAU/viewform"><a href="https://docs.google.com/forms/d/1PV_ep5WBarYMXmNOrD1ac8SYXHisePHPXvi_L9pcPAU/viewform" class="linkified">https://docs.google.com/forms/d/1PV_ep5WBarYMXmNOrD1ac8SYXHisePHPXvi_L9pcPAU/viewform</a></a>. We'll email you to let you know if you're in by February 4th.</p> <p>There will be an install fest the evening of the 6th with the full workshop taking place on the 7th. More details will be sent out upon acceptance.</p> <p>Django Girls is a free workshop for women who want to start using Django. To learn more about Django Girls visit: <a href="http://djangogirls.org/"><a href="http://djangogirls.org/" class="linkified">http://djangogirls.org/</a></a></p>",
+      "name": "Django Girls Workshop (First in SF!)",
+      "headcount": 0,
+      "group": {
+        "id": 3604052,
+        "created": 1333518348000,
+        "group_lat": 37.77000045776367,
+        "name": "PyLadies of San Francisco",
+        "group_lon": -122.4000015258789,
+        "join_mode": "open",
+        "urlname": "PyLadiesSF",
+        "who": "Pythonistas"
+      }
+    },
+    {
+      "visibility": "public",
+      "status": "upcoming",
+      "maybe_rsvp_count": 0,
+      "venue": {
+        "id": 22707662,
+        "lon": -122.425415,
+        "repinned": false,
+        "name": "St Mary's Event Venue",
+        "state": "CA",
+        "address_1": "1111 Gough St",
+        "lat": 37.784458,
+        "city": "San Francisco",
+        "country": "us"
+      },
+      "id": "210580982",
+      "utc_offset": -28800000,
+      "time": 1423332000000,
+      "waitlist_count": 0,
+      "created": 1412117999000,
+      "yes_rsvp_count": 33,
+      "updated": 1412117999000,
+      "event_url": "http://www.meetup.com/Startup-Hackathon-SF-Bay/events/210580982/",
+      "description": "<p>Our team is excited to announce our initiative to host the <a href="http://developerweek.com/hackathon/">Accelerate 2015 Hackathon</a> (Feb. 7-8, 2015) San Francisco’s largest hackathon -- as part of <a href="http://developerweek.com/">DeveloperWeek 2015</a>! Aside from $50,000+ in sponsor prizes, developers can tackle crowd-voted challenges, engage in 2 rounds of judging, and network with 1,000+ hackathon participants. Anyone can register, start a team, or join a team at the event!</p> <p><b>YOU MUST REGISTER USING THE BELOW LINK - Do not just RSVP for this meetup! </b></p> <p><b>200 Designers and Developers can register for a free Hackathon Plus pass:</b></p> <p><a href="http://developerweek.com/register/"><a href="http://developerweek.com/register/" class="linkified">http://developerweek.com/register/</a></a></p>",
+      "headcount": 0,
+      "name": "Accelerate 2015 Hackathon (DeveloperWeek Kick-Off)",
+      "group": {
+        "id": 5673322,
+        "created": 1351887523000,
+        "group_lat": 37.77000045776367,
+        "name": "Startup + Hackathon // SF Bay",
+        "group_lon": -122.4000015258789,
+        "join_mode": "open",
+        "urlname": "Startup-Hackathon-SF-Bay",
+        "who": "Startup Hackers"
+      }
+    },
+    {
+      "rsvp_limit": 40,
+      "status": "upcoming",
+      "visibility": "public",
+      "maybe_rsvp_count": 0,
+      "venue": {
+        "id": 3420592,
+        "zip": "94105",
+        "lon": -122.389328,
+        "repinned": false,
+        "name": "Mozilla ",
+        "state": "CA",
+        "address_1": "2 Harrison Street",
+        "lat": 37.789032,
+        "city": "San Francisco",
+        "country": "us"
+      },
+      "fee": {
+        "amount": 45,
+        "description": "per person",
+        "label": "Price",
+        "required": "1",
+        "accepts": "amazon",
+        "currency": "USD"
+      },
+      "id": "219878945",
+      "utc_offset": -28800000,
+      "duration": 109800000,
+      "time": 1423338300000,
+      "waitlist_count": 0,
+      "updated": 1421816130000,
+      "yes_rsvp_count": 19,
+      "created": 1421431221000,
+      "event_url": "http://www.meetup.com/Girl-Develop-It-San-Francisco/events/219878945/",
+      "description": "<p>HTML and CSS are the languages of the web, used by the billions of webpages out there today to mark up and style their content. They're also used in email marketing campaigns, blog posts, and more. If you're in the tech space or thinking of being a frontend developer, you should get HTML/CSS in your toolkit.</p> <p><br/>Want to learn how to make webpages? Already have your own blog, but want to have more control over ? This 2-day workshop is for you!</p> <p>This two-day workshop will be largely<i>"self-paced"</i>. That means that we'll start with a round of introductions and an overview of the web, and then you'll watch videos and do challenges <i>at your own pace</i>, using <a href="https://www.khanacademy.org/computing/computer-programming/html-css">Khan Academy</a>. We will stop to work on pair projects twice a day, and we'll have TAs to answer questions and help when you get stuck.</p> <p><br/>We will go from <b>11:45am</b> to <b>6:15pm</b> on both Saturday and Sunday, and each day will start with catered lunch.</p> <p>Bring a laptop, charger, and headphones with you. If you don't have any of those, please let us know.</p> <p><br/>If you're interested in helping out as a TA, please let us know. If you recently took the HTML/CSS class, TAing can be a great test of your skills! It can also be a great way to meet other people in our community.</p> <p><b>Many thanks to our sponsor <a href="http://mozilla.org">Mozilla</a> for the wonderful space and snacks.</b></p> <p><i><br/></i></p> <p><i>(This workshop is half the normal rate due to there being no instructor, and proceeds from this workshop will go back to our chapter fund.  If you'd like to attend but cannot afford the cost, please <a href="https://docs.google.com/spreadsheet/viewform?formkey=dHRPTms0blNlTlo3cUpySFJENzBEdWc6MQ">request a GDI scholarship</a>.)</i></p> <p>
+
+
+
+
+
+
+
+
+      </p> <p> </p>",
+      "how_to_find_us": "We're on the first floor, in the room next to the statue in the courtyard. It's easiest if you enter from the courtyard.",
+      "name": "Intro to HTML/CSS (Self-paced)",
+      "headcount": 0,
+      "group": {
+        "id": 3286622,
+        "created": 1329147725000,
+        "group_lat": 37.77000045776367,
+        "name": "Girl Develop It San Francisco",
+        "group_lon": -122.4000015258789,
+        "join_mode": "open",
+        "urlname": "Girl-Develop-It-San-Francisco",
+        "who": "Nerdettes"
+      }
+    },
+    {
+      "status": "upcoming",
+      "visibility": "public",
+      "maybe_rsvp_count": 0,
+      "venue": {
+        "id": 20782372,
+        "lon": -122.399834,
+        "repinned": false,
+        "name": "MakerSquare",
+        "state": "CA",
+        "address_1": "2nd floor, 611 Mission St",
+        "lat": 37.787498,
+        "city": "San Francisco",
+        "country": "us"
+      },
+      "id": "219962974",
+      "utc_offset": -28800000,
+      "duration": 25200000,
+      "time": 1423418400000,
+      "waitlist_count": 0,
+      "updated": 1421787847000,
+      "yes_rsvp_count": 29,
+      "created": 1421781884000,
+      "event_url": "http://www.meetup.com/sfruby/events/219962974/",
+      "description": "<p><a href="https://mastering-javascript-functions.eventbrite.com/">&lt;/a&gt;You need to Buy a ticket to attend: <br/>&lt;a href="https://mastering-javascript-functions.eventbrite.com/"&gt;<a href="https://mastering-javascript-functions.eventbrite.com" class="linkified">https://mastering-javascript-functions.eventbrite.com</a></a></p> <p><br/>Have you been learning JavaScript? Are you trying to fill in any gaps in your understanding of the basics? Join this class for an in-depth look at functions in JS. During the class, we'll cover the intricacies of scope, closures, callbacks, and more. The curriculum reinforces lectures with exercises completed on your laptop in partnership with other students (aka pair programming).</p> <p>In addition to the instructors, TAs will be available to assist you as you work through the exercises.</p> <p>Before class, you should already be comfortable with JS variables, arrays, objects, and loops. You should also be familiar with how to at least write and use a simple function. After class, you will have a new appreciation for the power of JS functions. You will also walk away with additional resources to continue your path to mastering JavaScript.</p> <p>Find out more at <a href="http://www.codeclass.io" class="linkified">http://www.codeclass.io</a></p> <p>You need to Buy a ticket to attend:<br/><a href="https://mastering-javascript-functions.eventbrite.com" class="linkified">https://mastering-javascript-functions.eventbrite.com</a></p> <p><br/>--- Agenda --- 10:00am Welcome &amp; Introduction<br/>10:15am Functions (review) &amp; Scope<br/>11:15am Exercises<br/>12:00pm Lunch<br/>12:30pm Closures<br/>1:30pm Exercises<br/>2:30pm Callbacks/Higher-Order Functions<br/>3:15pm Exercises<br/>3:45pm Underscore.js<br/>4:30pm Exercises: Underscore.js<br/>6:00pm Wrap Up </p> <p>
+
+
+
+
+
+      -- Instructors -- </p> <p>ALBREY </p> <p>Albrey is a software engineer, and currently a mentor at Hack Reactor. His love for teaching started at a young age, and over the years he's developed a knack for breaking down complex topics into simple, digestible knowledge. When not focused on JavaScript most of Albrey's time is spent between playing basketball and searching the city for the best burritos. If you know a spot, feel free to reach out. </p> <p>
+
+
+      JEFF</p> <p>Jeff is a software engineer at Mindjet who embraces the notion that "everyone's got to start somewhere." When he's not writing full-stack JavaScript at work, he enjoys helping others learn it. He guides students along the learning curve of coding by teaching JS classes and blogging about software engineering. Check out his articles at <a href="http://rebootjeff.github.io" class="linkified">http://rebootjeff.github.io</a></p> <p>--- FAQ ---</p> <p>Am I at the right level for this class?<br/>This class is for budding developers with at least 3 months of JavaScript experience. It's recommended that potential students have already completed at least one or two online JavaScript tutorials from the likes of Codecademy or CodeSchool. People with more experience also tend to get a lot out of this course. More specifically, students should already be very comfortable with the basics of arrays, objects, looping, calling functions, and the "return" keyword. </p> <p>Do I need to bring a laptop?<br/>Yes.</p> <p>
+
+
+      Will food be provided? </p> <p>Lunch, coffee and snacks will be provided.</p> <p>
+
+
+      Will this help me get into Hack Reactor or MakerSquare? </p> <p>This class and the material covered will help you get into and succeed at any coding bootcamp; however there is no guarantee that your prospects will improve. Taking this class has no impact on your admissions process. I can't make it this time. </p> <p>
+
+
+      When will the next one be? </p> <p>TBD. </p> <p>
+
+
+      Are there any options for remote attendance? </p> <p>No. Unfortunately, you cannot attend remotely.</p>",
+      "name": "Mastering JavaScript Functions",
+      "headcount": 0,
+      "group": {
+        "id": 134063,
+        "created": 1067365352000,
+        "group_lat": 37.790000915527344,
+        "name": "The San Francisco Ruby Meetup Group",
+        "group_lon": -122.41000366210938,
+        "join_mode": "open",
+        "urlname": "sfruby",
+        "who": "Ruby enthusiasts"
+      }
+    }
+  ],
+  "meta": {
+    "lon": "",
+    "count": 17,
+    "signed_url": "https://api.meetup.com/2/events?status=upcoming&order=time&limited_events=False&member_id=10653533&format=json&page=20&desc=false&photo-host=public&offset=0&fields=&time=1422901447865%2C+1423418400000&sig_id=10653533&sig=01cb0a997f539e3943faa5e32f2e066b6fb993b3",
+    "link": "https://api.meetup.com/2/events",
+    "next": "",
+    "total_count": 17,
+    "url": "https://api.meetup.com/2/events?status=upcoming&order=time&limited_events=False&member_id=10653533&format=json&page=20&desc=false&photo-host=public&offset=0&fields=&time=1422901447865%2C+1423418400000&sign=True",
+    "id": "",
+    "title": "Meetup Events v2",
+    "updated": 1422924998000,
+    "description": "Access Meetup events using a group, member, or event id. Events in private groups are available only to authenticated members of those groups. To search events by topic or location, see [Open Events](/meetup_api/docs/2/open_events).",
+    "method": "Events",
+    "lat": ""
+  }
+}

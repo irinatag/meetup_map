@@ -27,7 +27,11 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
+gem 'omniauth'
+
 gem 'omniauth-meetup'
+
+gem 'devise'
 
 # Use Unicorn as the app server
 # gem 'unicorn'
@@ -35,6 +39,8 @@ gem 'omniauth-meetup'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 gem 'semantic-ui-sass', github: 'doabit/semantic-ui-sass', branch: 'v1.0beta'
+
+
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console

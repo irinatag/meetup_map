@@ -12,11 +12,14 @@
     <div class='right menu'>
       <div class='item'>
         <div class="ui inverted red button">
-          <%= link_to "Sign in with Meetup", "https://secure.meetup.com/oauth2/authorize" %>
+          <%= link_to "Sign in with Meetup", user_omniauth_authorize_path(:meetup) %>
         </div>
       </div>
     </div>
   </div>
+
+  <p class="notice"><%= notice %></p>
+    <p class="alert"><%= alert %></p>
 
 <%= yield %>
 

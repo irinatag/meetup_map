@@ -6,7 +6,7 @@ Rails.application.routes.draw do
   # You can have the root of your site routed with "root"
   root 'home#login'
 
-  # get '/auth/:provider/callback', to: 'sessions#create'
+  get '/auth/:provider/callback', to: 'sessions#create'
 
   devise_for :users, :controllers => { omniauth_callbacks: 'omniauth_callbacks' }
   # Example of regular route:

@@ -1,7 +1,6 @@
 class HomeController < ApplicationController
 
   def login
-
   end
 
   def show

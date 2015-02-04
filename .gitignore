@@ -12,3 +12,4 @@
 !/log/.keep
 /tmp
 /.env
+/public/assets/javascripts/events.json

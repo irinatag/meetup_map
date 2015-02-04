@@ -91,6 +91,7 @@ GEM
       thor (>= 0.14, < 2.0)
     json (1.8.2)
     jwt (1.2.1)
+    leaflet-rails (0.7.4)
     loofah (2.0.1)
       nokogiri (>= 1.5.9)
     mail (2.6.3)
@@ -206,6 +207,7 @@ DEPENDENCIES
   dotenv-rails
   jbuilder (~> 2.0)
   jquery-rails
+  leaflet-rails
   omniauth
   omniauth-meetup
   pg

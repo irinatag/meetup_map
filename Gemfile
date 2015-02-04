@@ -33,6 +33,8 @@ gem 'omniauth-meetup'
 
 gem 'devise'
 
+gem 'leaflet-rails'
+
 # Use Unicorn as the app server
 # gem 'unicorn'
 

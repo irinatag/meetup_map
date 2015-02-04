@@ -126,8 +126,8 @@ $(document).ready(function() {
   console.log(data["results"][0]["venue"]["lon"]);
 
   for (var i=0; i < data["results"].length; i++) {
-    var lat = data["results"][0]["venue"]["lat"];
-    var lon = data["results"][0]["venue"]["lon"];
+    var lat = data["results"][i]["venue"]["lat"];
+    var lon = data["results"][i]["venue"]["lon"];
     var marker = L.marker([lat, lon]).addTo(map);
     marker.bindPopup("<b>Mobile Study Group: iOS & Android (Objective-C & Java)</b><br>747 Front St.").openPopup();
   }

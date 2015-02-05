@@ -11,10 +11,14 @@ $(document).ready(function() {
   baseLayer.addTo(map);
 
   // get data from controller via gon
-  var meetup_events = gon.meetup_events
+  var meetup_hash = gon.meetup_events
+  var meetup_json = JSON.parse(meetup_hash)
 
-  console.log(meetup_events)
-  console.log(meetup_events["results"])
+  console.log(meetup_hash)
+  console.log("___________________________________")
+  console.log(meetup_json)
+  console.log("___________________________________")
+  console.log(meetup_json["results"])
   // console.log(meetup_events["results"][1]["name"]);
   // console.log(meetup_events["results"][1]["venue"]["address_1"]);
   //

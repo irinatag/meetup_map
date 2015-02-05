@@ -103,7 +103,7 @@ $(document).ready(function() {
         "urlname": "Girl-Develop-It-San-Francisco",
         "who": "Nerdettes"
       }
-    },
+    }
     ],
     "meta": {
       "lon": "",
@@ -122,14 +122,17 @@ $(document).ready(function() {
     }
   };
 
-  console.log(data["results"][0]["venue"]["lat"]);
-  console.log(data["results"][0]["venue"]["lon"]);
+  console.log(data["results"][1]["name"]);
+  console.log(data["results"][1]["venue"]["address_1"]);
 
   for (var i=0; i < data["results"].length; i++) {
     var lat = data["results"][i]["venue"]["lat"];
     var lon = data["results"][i]["venue"]["lon"];
+    var name = data["results"][i]["name"];
+    var address = data["results"][i]["venue"]["address_1"];
+    var popup = '<b>' + name + '</b><br>' + address;
     var marker = L.marker([lat, lon]).addTo(map);
-    marker.bindPopup("<b>Mobile Study Group: iOS & Android (Objective-C & Java)</b><br>747 Front St.").openPopup();
+    marker.bindPopup(popup);
   }
 
 

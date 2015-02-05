@@ -1,6 +1,7 @@
 class MapsController < ApplicationController
 
-  def view
+  def show
 
   end
+
 end

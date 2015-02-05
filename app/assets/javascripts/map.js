@@ -10,6 +10,13 @@ $(document).ready(function() {
 
   baseLayer.addTo(map);
 
+  var RedIcon = L.Icon.Default.extend({
+           options: {
+                 iconUrl: 'assets/marker-icon-red.png'
+           }
+        });
+  var redIcon = new RedIcon();
+
   // get data from controller via gon
   var meetup_hash = gon.meetup_events
   var meetup_json = JSON.parse(meetup_hash)
@@ -20,8 +27,7 @@ $(document).ready(function() {
     var name = meetup_json["results"][i]["name"];
     var address = meetup_json["results"][i]["venue"]["address_1"];
     var popup = '<b>' + name + '</b><br>' + address;
-    var marker = L.marker([lat, lon]).addTo(map);
+    var marker = L.marker([lat, lon], {icon: redIcon}).addTo(map);
     marker.bindPopup(popup);
   }
-
 });

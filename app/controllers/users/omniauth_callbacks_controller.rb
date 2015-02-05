@@ -8,7 +8,9 @@ class Users::OmniauthCallbacksController < Devise::OmniauthCallbacksController
       set_flash_message(:notice, :success, :kind => "Meetup") if is_navigational_format?
     else
       session["devise.meetup_data"] = request.env["omniauth.auth"]
-      redirect_to new_user_registration_url
+      redirect_to map_path
     end
+
+    # if user is successfully logged in on meetup
   end
 end

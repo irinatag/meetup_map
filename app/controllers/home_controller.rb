@@ -1,6 +1,7 @@
 class HomeController < ApplicationController
 
   def login
+    puts session["devise.meetup_data"]
   end
 
   def show

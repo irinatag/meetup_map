@@ -36,6 +36,7 @@ gem 'devise'
 gem 'leaflet-rails'
 
 gem 'rest-client', '~> 1.7.2'
+gem 'json', '~> 1.8.2'
 
 # Use Unicorn as the app server
 # gem 'unicorn'

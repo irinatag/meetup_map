@@ -9,10 +9,7 @@ class MapsController < ApplicationController
     puts response
 
     #setting gon variables for js
-    gon.meetup_events = response 
-  end
-
-  def api_call
+    gon.meetup_events = response
   end
 
 end

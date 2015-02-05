@@ -7,7 +7,6 @@ Rails.application.routes.draw do
   root 'home#login'
 
   get 'map' => 'maps#show'
-  get 'api_call' => 'maps#api_call'
   devise_for :users, :controllers => { omniauth_callbacks: 'users/omniauth_callbacks' }
 
   # Example of named route that can be invoked with purchase_url(id: product.id)

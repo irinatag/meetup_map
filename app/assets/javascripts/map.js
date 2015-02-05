@@ -14,22 +14,14 @@ $(document).ready(function() {
   var meetup_hash = gon.meetup_events
   var meetup_json = JSON.parse(meetup_hash)
 
-  console.log(meetup_hash)
-  console.log("___________________________________")
-  console.log(meetup_json)
-  console.log("___________________________________")
-  console.log(meetup_json["results"])
-  // console.log(meetup_events["results"][1]["name"]);
-  // console.log(meetup_events["results"][1]["venue"]["address_1"]);
-  //
-  // for (var i=0; i < meetup_events["results"].length; i++) {
-  //   var lat = meetup_events["results"][i]["venue"]["lat"];
-  //   var lon = meetup_events["results"][i]["venue"]["lon"];
-  //   var name = meetup_events["results"][i]["name"];
-  //   var address = meetup_events["results"][i]["venue"]["address_1"];
-  //   var popup = '<b>' + name + '</b><br>' + address;
-  //   var marker = L.marker([lat, lon]).addTo(map);
-  //   marker.bindPopup(popup);
-  // }
+  for (var i=0; i < meetup_json["results"].length; i++) {
+    var lat = meetup_json["results"][i]["venue"]["lat"];
+    var lon = meetup_json["results"][i]["venue"]["lon"];
+    var name = meetup_json["results"][i]["name"];
+    var address = meetup_json["results"][i]["venue"]["address_1"];
+    var popup = '<b>' + name + '</b><br>' + address;
+    var marker = L.marker([lat, lon]).addTo(map);
+    marker.bindPopup(popup);
+  }
 
 });

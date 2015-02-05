@@ -10,17 +10,9 @@ $(document).ready(function() {
 
   baseLayer.addTo(map);
 
-  // playing with onclick to view lan log - NOT IMPORTANT
-  // var popup = L.popup();
+  // testing if gon gem works
+  console.log(gon.meetup_events)
   //
-  // function onMapClick(e) {
-  //   popup
-  //   .setLatLng(e.latlng)
-  //   .setContent("You clicked the map at " + e.latlng.toString())
-  //   .openOn(map);
-  // }
-  //
-  // map.on('click', onMapClick);
 
   var data = {
     "results": [
@@ -134,7 +126,5 @@ $(document).ready(function() {
     var marker = L.marker([lat, lon]).addTo(map);
     marker.bindPopup(popup);
   }
-
-
 
 });

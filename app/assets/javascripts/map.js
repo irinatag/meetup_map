@@ -25,8 +25,10 @@ $(document).ready(function() {
     var lat = meetup_json["results"][i]["venue"]["lat"];
     var lon = meetup_json["results"][i]["venue"]["lon"];
     var name = meetup_json["results"][i]["name"];
+    var mil = meetup_json["results"][i]["time"];
+    var date = new Date(mil).toDateString();
     var address = meetup_json["results"][i]["venue"]["address_1"];
-    var popup = '<b>' + name + '</b><br>' + address;
+    var popup = '<b>' + name + '</b><br>' + date + '<br>' + address;
     var marker = L.marker([lat, lon], {icon: redIcon}).addTo(map);
     marker.bindPopup(popup);
   }

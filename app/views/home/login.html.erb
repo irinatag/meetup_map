@@ -5,6 +5,29 @@
 </head>
 <body>
 
+  <br>
+  <br>
 
+  <div class="ui seven column centered grid">
+
+    <div class="six wide column">
+      <img class="ui massive image" src="/assets/meetups_mashup.png">
+    </div>
+    <div class="eight wide column">
+      <div class="ui blue inverted segment">
+        <h1>Welcome to the Meetups Map Viewer!</h1>
+        <h2>View all your weekly meetups on a map.</h2>
+      </div>
+      <div class="centered row">
+        <div class="ui youtube button">
+          <%= link_to "Sign in with Meetup", user_omniauth_authorize_path(:meetup) %>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="two wide column"></div>
+
+</div>
 </body>
 </html>

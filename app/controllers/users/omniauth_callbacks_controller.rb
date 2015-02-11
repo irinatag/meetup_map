@@ -11,7 +11,9 @@ class Users::OmniauthCallbacksController < Devise::OmniauthCallbacksController
     else
       puts "*" * 50
       puts "not there!"
-      session["devise.meetup_data"] = request.env["omniauth.auth"]
+      puts session["devise.meetup_data"] = request.env["omniauth.auth"]
+      puts session["devise.meetup_data"]
+      puts "*" * 50
       redirect_to map_path
     end
 

@@ -3,10 +3,14 @@ class Users::OmniauthCallbacksController < Devise::OmniauthCallbacksController
     # You need to implement the method below in your model (e.g. app/models/user.rb)
     @user = User.from_omniauth(request.env["omniauth.auth"])
 
-    if @user.persisted?
+    if @user.persisted? #remember me on their side?
+      puts "*" * 50
+      puts "i am here now"
       sign_in_and_redirect @user, :event => :authentication #this will throw if @user is not activated
       set_flash_message(:notice, :success, :kind => "Meetup") if is_navigational_format?
     else
+      puts "*" * 50
+      puts "not there!"
       session["devise.meetup_data"] = request.env["omniauth.auth"]
       redirect_to map_path
     end

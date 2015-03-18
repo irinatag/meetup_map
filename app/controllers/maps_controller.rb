@@ -3,7 +3,7 @@ require 'rest_client'
 class MapsController < ApplicationController
 
   def show
-    puts "session hash:" + session["devise.meetup_data"]
+    puts "session hash:" + session["devise.meetup_data"].to_s
     uid = session["devise.meetup_data"]["uid"]
     puts "*" * 100
     puts uid

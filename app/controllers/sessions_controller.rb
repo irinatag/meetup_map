@@ -1,5 +1,6 @@
 class SessionsController < ApplicationController
   def create
+    puts "in session controller create /n"
     @user = User.find_or_create_from_auth_hash(auth_hash)
     self.current_user = @user
     puts @user

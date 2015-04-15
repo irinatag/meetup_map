@@ -3,11 +3,10 @@ require 'rest_client'
 class MapsController < ApplicationController
 
   def show
-  response = RestClient.get "https://api.meetup.com/2/events?access_token=#{access_token}&member_id=#{uid}&offset=0&format=json&limited_events=False&photo-host=public&page=500&fields=&order=time&desc=false&status=upcoming"
+  meetup_events = RestClient.get "https://api.meetup.com/2/events?access_token=#{access_token}&member_id=#{uid}&offset=0&format=json&limited_events=False&photo-host=public&page=500&fields=&order=time&desc=false&status=upcoming"
 
   #set gon variable for js
-  gon.meetup_events = response
-  render json: response
+  gon.meetup_events = meetup_events
   end
 
   private

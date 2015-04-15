@@ -3,15 +3,24 @@ require 'rest_client'
 class MapsController < ApplicationController
 
   def show
-    puts "session hash:" + session["devise.meetup_data"].to_s
-    uid = session["devise.meetup_data"]["uid"]
-    # sig = session["devise.meetup_data"]["sig"]
-    # time1 = Time.now.to_i * 1000
-    # time2 = (Time.now + (7*24*60*60)).to_i * 1000
-    response = RestClient.get "https://api.meetup.com/2/events?member_id=#{uid}&offset=0&format=json&limited_events=False&photo-host=public&page=500&fields=&order=time&desc=false&status=upcoming&sig_id=#{uid}&sig=65b4439deb15ab636a29d2694f3028a7657899de"
+  response = RestClient.get "https://api.meetup.com/2/events?access_token=#{access_token}&member_id=#{uid}&offset=0&format=json&limited_events=False&photo-host=public&page=500&fields=&order=time&desc=false&status=upcoming"
 
-    #setting gon variable for js
-    gon.meetup_events = response
+  #set gon variable for js
+  gon.meetup_events = response
+  render json: response
   end
 
+  private
+
+  def uid
+    return unless session['devise.meetup_data']
+
+    session['devise.meetup_data']['uid']
+  end
+
+  def access_token
+    return unless session['devise.meetup_data']
+
+    session['devise.meetup_data']['credentials']['token']
+  end
 end
